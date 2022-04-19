@@ -1,8 +1,8 @@
- "dog man"
+ dog = yes
 
- "hewbvdj"
+ hewbvdj = 25
 
- "bfhdebd"
+ bfhdebd = 0.000000099
  my age is = 33
 
 my dog is = 7
@@ -19,4 +19,4 @@ am i learning my macbook = yes
 
 am i learning  how to code = yes
 
-am i slacking off = no 
+am i slacking off = no
