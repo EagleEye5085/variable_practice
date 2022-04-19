@@ -14,3 +14,9 @@ number = 22.5
 number = 65.9
 
 number = 24.8
+
+am i learning my macbook = yes
+
+am i learning  how to code = yes
+
+am i slacking off = no 
